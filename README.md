@@ -3,4 +3,5 @@ Every year, approximately 7.6 million companion animals end up in US shelters. M
 Using a dataset of intake information including breed, color, sex, and age from the Austin Animal Center, I predicted the outcome for each animal.
 https://www.kaggle.com/c/shelter-animal-outcomes<br>
 ![Shelter Animal Outcomes](https://miro.medium.com/max/1000/1*akpXxcmwjsXlHz4gMvFEZQ.jpeg)
-366th on Public leaderboard (1599) with 0.74 score 
+A multi-class classification<br>
+366th on Public leaderboard (1599) with LightGBM Classifier and 0.74 score 
