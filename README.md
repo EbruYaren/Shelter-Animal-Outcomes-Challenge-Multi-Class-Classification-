@@ -4,4 +4,10 @@ Using a dataset of intake information including breed, color, sex, and age from 
 https://www.kaggle.com/c/shelter-animal-outcomes<br>
 ![Shelter Animal Outcomes](https://miro.medium.com/max/1000/1*akpXxcmwjsXlHz4gMvFEZQ.jpeg)
 A multi-class classification<br>
-366th on Public leaderboard (1599) with LightGBM Classifier and 0.74 score 
+### Models Implemented
+Random Forest Classifier<br>
+Gradient Boosting Classifier<br>
+XGBoost Classifier<br>
+LightGBM Classifier<br>
+### Final Score
+The final model scored 0.74 on leaderboard with the standing of 366/1599 participants.
