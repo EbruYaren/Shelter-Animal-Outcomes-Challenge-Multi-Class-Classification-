@@ -5,7 +5,7 @@ Using a dataset of intake information including breed, color, sex, and age from 
 
 ![Shelter Animal Outcomes](https://miro.medium.com/max/1000/1*akpXxcmwjsXlHz4gMvFEZQ.jpeg)
 
-##A Multi-Class Classification<br>
+## A Multi-Class Classification<br>
 ### Models Implemented
 Random Forest Classifier<br>
 Gradient Boosting Classifier<br>
